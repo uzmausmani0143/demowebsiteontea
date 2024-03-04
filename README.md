@@ -13,6 +13,6 @@
 
 - Hosting a Static Web on Object Storage using IBM Cloud Hosting
 
-<img src="tea_website.png">
+<img src="tea_website.PNG">
 
 
